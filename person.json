@@ -1,0 +1,26 @@
+[
+  {
+    "id": 11,
+    "name": "hiehie",
+    "age": "20",
+    "address": "mana ya"
+  },
+  {
+    "id": 2,
+    "name": "Andi",
+    "age": 20,
+    "address": "Jalan Ninjaku"
+  },
+  {
+    "id": 3,
+    "name": "Budi",
+    "age": 30,
+    "address": "Jalan Inaja"
+  },
+  {
+    "id": 4,
+    "name": "Indie",
+    "age": 20,
+    "address": "Jalan Jalan Sore"
+  }
+]
